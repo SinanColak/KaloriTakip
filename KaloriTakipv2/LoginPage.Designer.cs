@@ -102,6 +102,8 @@ namespace KaloriTakipv2
             this.btnNext1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnNext1.BackgroundImage")));
             this.btnNext1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btnNext1.FlatAppearance.BorderSize = 0;
+            this.btnNext1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnNext1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btnNext1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNext1.ForeColor = System.Drawing.Color.Transparent;
             this.btnNext1.Location = new System.Drawing.Point(527, 857);
@@ -154,6 +156,8 @@ namespace KaloriTakipv2
             this.btnNext2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnNext2.BackgroundImage")));
             this.btnNext2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btnNext2.FlatAppearance.BorderSize = 0;
+            this.btnNext2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnNext2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btnNext2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNext2.ForeColor = System.Drawing.Color.Transparent;
             this.btnNext2.Location = new System.Drawing.Point(527, 857);
@@ -206,6 +210,8 @@ namespace KaloriTakipv2
             this.btnNext3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnNext3.BackgroundImage")));
             this.btnNext3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btnNext3.FlatAppearance.BorderSize = 0;
+            this.btnNext3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnNext3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btnNext3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNext3.ForeColor = System.Drawing.Color.Transparent;
             this.btnNext3.Location = new System.Drawing.Point(527, 857);
